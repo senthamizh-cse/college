@@ -347,10 +347,8 @@ Our unique methodology ensures you are not just ready but ahead in the job marke
 
 ## OUTPUT
 
-![Screenshot (65)](https://github.com/pradxxsh/Assignment2-clg/assets/131758539/6fa12b24-1f65-4037-ab5c-f83e03422687)
-![Screenshot (66)](https://github.com/pradxxsh/Assignment2-clg/assets/131758539/25f6fc4a-b75f-469b-a042-97174a270e89)
-![Screenshot (67)](https://github.com/pradxxsh/Assignment2-clg/assets/131758539/b9288c37-601b-4623-ab70-2487bc3c1a08)
-![Screenshot (68)](https://github.com/pradxxsh/Assignment2-clg/assets/131758539/80972bac-7d7d-4aca-a44c-ec3a0e707bdc)
-
-
-
+![alt text](<Screenshot 2024-07-03 115251.png>)
+![alt text](<Screenshot 2024-07-03 115302.png>)
+![alt text](<Screenshot 2024-07-03 115311.png>)
+![alt text](<Screenshot 2024-07-03 115320.png>)
+![alt text](<Screenshot 2024-07-03 115329.png>)
